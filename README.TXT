@@ -13,3 +13,5 @@ AUTHORS:  1. Achmad Zufri
           3. Sholeh Hamid
           4. Muhammad Soleh Hudin
 USER INSTRUCTIONS:
+Haaah, kode yang digunakan terlalu dirumitkan. bruh moment
+udah ditengah tengah ingat yang lebih mudah, programmer moment.
