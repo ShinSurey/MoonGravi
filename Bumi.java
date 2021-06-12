@@ -1,9 +1,8 @@
 import greenfoot.*;
 
-
-public class Bumi  extends Actor
+public class Bumi extends Actor
 {
-    public double m=80; 
+    public double m=80;
     private int n=360;
     private GreenfootImage image=new GreenfootImage("Earth.png");
     private GreenfootImage bola=new GreenfootImage(image.getWidth(),image.getHeight());
@@ -40,3 +39,4 @@ public class Bumi  extends Actor
         if(n==0)n=360;
     }
 }
+    

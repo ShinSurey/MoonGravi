@@ -1,13 +1,13 @@
-import greenfoot.*;  
+import greenfoot.*;
 
-public class Space  extends World
+public class Space extends World
 {
     private int n=0;
     private GreenfootImage image=null,imageo=null,image2=null;
     
     public Space()
-    {    
-        super(600, 400, 1,false); 
+    {
+        super(600, 400, 1,false);
         addObject(new Bumi(),300,200);
         addObject(new Bulan(),100,200);
         image=getBackground();
